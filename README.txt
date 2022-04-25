@@ -1,0 +1,1 @@
+A ZERO-CODE solution to get quotes from Yahoo Finance using a simple KNIME Workflow.
